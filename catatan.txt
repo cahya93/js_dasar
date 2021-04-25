@@ -1,0 +1,5 @@
+var => jangan digunakan karena tidak bisa cek error
+let => bisa diganti
+const => tidak bisa diganti
+
+belajar lagi tentang length
