@@ -2,4 +2,6 @@ var => jangan digunakan karena tidak bisa cek error
 let => bisa diganti
 const => tidak bisa diganti
 
-belajar lagi tentang length
+belajar lagi tentang
+1. length
+2. typeOf
